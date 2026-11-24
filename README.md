@@ -9,7 +9,7 @@ funniest excuse a robot vacuum gives for missing a spot, 140 characters or fewer
 
 ## The line
 
-> "My lidar mapped that spot as a wall, my bumper confirmed it was a sock, and my battery voted we go home. Democracy won."
+> "My lidar called that spot a wall, my bumper called it a sock, and my battery called it a day. Democracy won."
 
 ## How it works
 
