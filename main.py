@@ -11,7 +11,7 @@ line below, no trailing newline, byte-identical.
 import os
 import sys
 
-LINE = "My lidar mapped that spot as a wall, my bumper confirmed it was a sock, and my battery voted we go home. Democracy won."
+LINE = "My lidar called that spot a wall, my bumper called it a sock, and my battery called it a day. Democracy won."
 
 MAX_CHARS = 140
 
